@@ -5,3 +5,4 @@ def display():
 if __name__=='__main__':
     print(display())
     print('PRU HRS')
+    print('HRITIK')
